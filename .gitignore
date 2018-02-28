@@ -1,0 +1,8 @@
+target/**
+.idea/**
+.idea/workspace.xml
+target/classes/db/db.properties
+target/classes/liaoxixi/App.class
+target/classes/logback.xml
+target/test-classes/liaoxixi/AppTest.class
+
